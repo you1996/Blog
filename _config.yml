@@ -11,6 +11,7 @@ baseurl: ''
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
 # otherwise, the layout language will use the default value of 'en'.
 lang: en
+avatar: '/assets/img/Avatar.jpeg'
 
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
@@ -21,7 +22,7 @@ timezone: Asia/Shanghai
 
 title: Yousri Ben taghalline                          # the main title
 
-tagline: Enjoying learning DevOps and Cloud, this is where i document some of my discovries   # it will display as the sub-title
+tagline: Enjoying learning DevOps and Cloud, this is where i document some of my discoveries  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Youssri, yousri ben taghalline, DevOps Azure terraform how to.
